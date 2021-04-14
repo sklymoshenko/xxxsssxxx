@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xxxsssxxx
+- 👀 I’m interested in a newest front end technologies such as Vue, Vite, TypeScript, Tailwind, WebPack etc.
+- 🌱 I’m currently learning working as a fullstack developer with nodejs and as a mobile developer with capacitorjs.
+- 💞️ I’m looking to collaborate on whatever interesting project you have and need some help with front end part.
+- 📫 How to reach me is simply mail me s.klymoshenko@gmail.com.
